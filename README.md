@@ -1,3 +1,3 @@
-![](promo.png)
+![](discite.png)
 
 » [Discite besuchen](https://github.com/xp4u1/discite)
