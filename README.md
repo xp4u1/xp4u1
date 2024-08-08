@@ -2,6 +2,10 @@
 
 » [Discite besuchen](https://github.com/xp4u1/discite)
 
+![](memoria.png)
+
+» [memoria besuchen](https://github.com/xp4u1/memoria)
+
 <br>
 
 ![](reading_study.png)
