@@ -5,8 +5,6 @@
 
 I’m a Cyber Security student and work at ZEISS, keeping digital systems safe. In my free time, I enjoy developing websites and apps. I also mentor at juFORUM, leading workshops for youth groups to share my passion for tech.
 
-Available for hire to help bring your ideas to life through web and mobile applications. Just send me an email to discuss your project!
-
 If you use my open source projects, consider **[supporting my work](https://github.com/sponsors/xp4u1)**. Thank you!</b><br/>
 
 <br/><br/>
