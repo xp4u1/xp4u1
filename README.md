@@ -3,7 +3,7 @@
 
 <img src="github-metrics.svg" align="right" width="40.5%"></img>
 
-I’m a Cyber Security student and work at ZEISS, keeping digital systems safe. In my free time, I enjoy developing websites and apps. I also mentor at juFORUM, leading workshops for youth groups to share my passion for tech.
+I'm a Cyber Security student and work at ZEISS, keeping digital systems safe. In my free time, I enjoy developing websites and apps. I also mentor at juFORUM, leading workshops for youth groups to share my passion for tech.
 
 If you use my open source projects, consider **[supporting my work](https://github.com/sponsors/xp4u1)**. Thank you!</b><br/>
 
@@ -44,13 +44,14 @@ All of my workshop materials are open source, making them freely accessible for 
 
 - **[memoria](https://github.com/xp4u1/memoria)** Sleek, minimalist diary with private, secure, self-hosted data.
 - **[Discite](https://github.com/xp4u1/discite)** The smart app for learning Latin (German)
+- **[zeroday.pw](https://github.com/xp4u1/zeroday_pw)** Self-hosted CTF platform with automated subdomains, isolated challenges, and full data control.
 - **[Reading Study](https://github.com/xp4u1/reading_study)** Empirical study on Bionic Reading® (German)
-- **[Dulcis](https://github.com/xp4u1/dulcis)** Simple app to place and manage kitchen and coffee orders (German)
 
 <br /><br />
 
 [![](discite.png)](https://github.com/xp4u1/discite)
 [![](memoria.png)](https://github.com/xp4u1/memoria)
+[![](zeroday_pw.png)](https://github.com/xp4u1/zeroday_pw)
 [![](reading_study.png)](https://github.com/xp4u1/reading_study)
 [![](dulcis.png)](https://github.com/xp4u1/dulcis)
 [![](app_workshop.png)](https://github.com/xp4u1/workshop)
