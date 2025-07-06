@@ -26,8 +26,14 @@ As part of my role as a juFORUM mentor, I've led workshops focused on technology
 All of my workshop materials are open source, making them freely accessible for anyone to use and adapt.
 
 - **Basics of app development**: [xp4u1/workshop](https://github.com/xp4u1/workshop) (German)
+- **Hack me if you can - Introduction to Cyber Security**: [xp4u1/cybersecurity_workshop](https://github.com/xp4u1/cybersecurity_workshop) (German)
+
 
 <br />
+
+**2025**:
+
+- **Fraunhofer Talent Take Off – Vernetzen**: Hack me if you can - Introduction to Cyber Security
 
 **2024**:
 
