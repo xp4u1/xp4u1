@@ -33,6 +33,7 @@ All of my workshop materials are open source, making them freely accessible for 
 
 **2025**:
 
+- **Zukunftsakademie Heidenheim**: Basics of app development
 - **Fraunhofer Talent Take Off – Vernetzen**: Hack me if you can - Introduction to Cyber Security
 
 **2024**:
