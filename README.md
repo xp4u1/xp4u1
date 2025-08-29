@@ -28,7 +28,6 @@ All of my workshop materials are open source, making them freely accessible for 
 - **Basics of app development**: [xp4u1/workshop](https://github.com/xp4u1/workshop) (German)
 - **Hack me if you can - Introduction to Cyber Security**: [xp4u1/cybersecurity_workshop](https://github.com/xp4u1/cybersecurity_workshop) (German)
 
-
 <br />
 
 **2025**:
@@ -50,15 +49,14 @@ All of my workshop materials are open source, making them freely accessible for 
 ### Featured Projects
 
 - **[memoria](https://github.com/xp4u1/memoria)** Sleek, minimalist diary with private, secure, self-hosted data.
-- **[Discite](https://github.com/xp4u1/discite)** The smart app for learning Latin (German)
 - **[zeroday.pw](https://github.com/xp4u1/zeroday_pw)** Self-hosted CTF platform with automated subdomains, isolated challenges, and full data control.
-- **[Reading Study](https://github.com/xp4u1/reading_study)** Empirical study on Bionic Reading® (German)
+- **[App Workshop](https://github.com/xp4u1/workshop)** Custom low-code platform with companion app to teach (app/game) development
 
 <br /><br />
 
-[![](discite.png)](https://github.com/xp4u1/discite)
 [![](memoria.png)](https://github.com/xp4u1/memoria)
 [![](zeroday_pw.png)](https://github.com/xp4u1/zeroday_pw)
+[![](discite.png)](https://github.com/xp4u1/discite)
 [![](reading_study.png)](https://github.com/xp4u1/reading_study)
 [![](dulcis.png)](https://github.com/xp4u1/dulcis)
 [![](app_workshop.png)](https://github.com/xp4u1/workshop)
