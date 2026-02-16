@@ -25,10 +25,15 @@ As part of my role as a juFORUM mentor, I've led workshops focused on technology
 
 All of my workshop materials are open source, making them freely accessible for anyone to use and adapt.
 
-- **Basics of app development**: [xp4u1/workshop](https://github.com/xp4u1/workshop) (German)
+- **Basics of app development**: [xp4u1/app_workshop](https://github.com/xp4u1/app_workshop) (German)
 - **Hack me if you can - Introduction to Cyber Security**: [xp4u1/cybersecurity_workshop](https://github.com/xp4u1/cybersecurity_workshop) (German)
 
 <br />
+
+**2026**:
+
+- **Zukunftsakademie Heidenheim**: Hack me if you can - Introduction to Cyber Security
+- **Zukunftsakademie Heidenheim**: Basics of app development
 
 **2025**:
 
@@ -50,7 +55,7 @@ All of my workshop materials are open source, making them freely accessible for 
 
 - **[memoria](https://github.com/xp4u1/memoria)** Sleek, minimalist diary with private, secure, self-hosted data.
 - **[zeroday.pw](https://github.com/xp4u1/zeroday_pw)** Self-hosted CTF platform with automated subdomains, isolated challenges, and full data control.
-- **[App Workshop](https://github.com/xp4u1/workshop)** Custom low-code platform with companion app to teach (app/game) development
+- **[App Workshop](https://github.com/xp4u1/app_workshop)** Custom low-code platform with companion app to teach (app/game) development
 
 <br /><br />
 
