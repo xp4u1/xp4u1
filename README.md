@@ -37,11 +37,19 @@ As a juFORUM mentor, I regularly lead hands-on workshops on software development
 
 <br />
 
-### Featured Projects
+### Cool Projects
 
-- **[memoria](https://github.com/xp4u1/memoria)** Sleek, minimalist diary with private, secure, self-hosted data.
+Behind the scenes, I write a lot more code than I publish. This is just a small selection of my public projects, featuring the ones I still use, maintain, or enjoyed building and believe could be useful to others.
+
 - **[zeroday.pw](https://github.com/xp4u1/zeroday_pw)** Self-hosted CTF platform with automated subdomains, isolated challenges, and full data control.
+- **[memoria](https://github.com/xp4u1/memoria)** Sleek, minimalist diary with private, secure, self-hosted data.
+- **[blockwerk](https://github.com/xp4u1/blockwerk)** Kubernetes-based Minecraft cloud management system.
+- **[missus](https://github.com/xp4u1/missus)** Minimal file upload tool.
 - **[App Workshop](https://github.com/xp4u1/app_workshop)** Custom low-code platform with companion app to teach (app/game) development
+
+### Human-made Design
+
+I enjoy creating digital designs and have been doing so long before AI started generating them. A collection of visuals, interfaces, and creative projects I've worked on over the years.
 
 <br /><br />
 
