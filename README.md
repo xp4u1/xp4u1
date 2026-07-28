@@ -35,8 +35,6 @@ As a juFORUM mentor, I regularly lead hands-on workshops on software development
 - **Fraunhofer Talent Take Off – Vernetzen**: Basics of app development
 - **juFORUM Mentorenwochenende**: Basics of app development
 
-<br />
-
 ### Cool Projects
 
 Behind the scenes, I write a lot more code than I publish. This is just a small selection of my public projects, featuring the ones I still use, maintain, or enjoyed building and believe could be useful to others.
@@ -49,9 +47,7 @@ Behind the scenes, I write a lot more code than I publish. This is just a small 
 
 ### Human-made Design
 
-I enjoy creating digital designs and have been doing so long before AI started generating them. A collection of visuals, interfaces, and creative projects I've worked on over the years.
-
-<br /><br />
+I enjoy creating digital designs and have been doing so long before AI started generating them. A collection of visuals, interfaces, and creative projects I've worked on over the years:
 
 [![](memoria.png)](https://github.com/xp4u1/memoria)
 [![](zeroday_pw.png)](https://github.com/xp4u1/zeroday_pw)
