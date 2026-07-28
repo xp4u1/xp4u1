@@ -7,8 +7,6 @@ I'm a Cyber Security student working at ZEISS, where I help keep digital systems
 
 Outside of work, I enjoy building websites, apps, and open source projects. I also volunteer as a mentor at juFORUM, where I organize and lead workshops to introduce young people to software development and cyber security.
 
-<br />
-
 ### Workshops
 
 As a juFORUM mentor, I regularly lead hands-on workshops on software development and cyber security. All workshop materials are open source and freely available.
