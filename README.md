@@ -9,7 +9,7 @@ Outside of work, I enjoy building websites, apps, and open source projects. I al
 
 ### Workshops
 
-As a juFORUM mentor, I regularly lead hands-on workshops on software development and cyber security. All workshop materials are open source and freely available.
+I regularly create and lead hands-on workshops on software development and cyber security. All materials are open source and freely available.
 
 - **Basics of app development**: [xp4u1/app_workshop](https://github.com/xp4u1/app_workshop) (German)
 - **Hack me if you can - Introduction to Cyber Security**: [xp4u1/cybersecurity_workshop](https://github.com/xp4u1/cybersecurity_workshop) (German)
