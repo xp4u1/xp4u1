@@ -3,27 +3,15 @@
 
 <img src="github-metrics.svg" align="right" width="40.5%"></img>
 
-I'm a Cyber Security student and work at ZEISS, keeping digital systems safe. In my free time, I enjoy developing websites and apps. I also mentor at juFORUM, leading workshops for youth groups to share my passion for tech.
+I'm a Cyber Security student working at ZEISS, where I help keep digital systems secure.
 
-If you use my open source projects, consider **[supporting my work](https://github.com/sponsors/xp4u1)**. Thank you!</b><br/>
-
-<br/><br/>
-
-### My Commitment to (Tech) Education
-
-I had to teach myself all my IT skills because I didn't have anyone to support me. Unfortunately, this is the case at many schools in Germany (and the world). I want to help young people who are interested in technology. That's why I'm juFORUM mentor.
-
-I want **education to be free**. That's why I've published open source projects like [Discite](https://github.com/xp4u1/discite) that are free in Google Play and the Apple App Store.
-
-My work as a mentor is voluntary and I have to cover the costs for the Apple Developer costs for Discite (€99 per year) myself. Therefore, I am happy about any support, such as GitHub Sponsors or through a purchase of one of my other apps on Google Play or in the App Store like [memoria](https://github.com/xp4u1/memoria).
+Outside of work, I enjoy building websites, apps, and open source projects. I also volunteer as a mentor at juFORUM, where I organize and lead workshops to introduce young people to software development and cyber security.
 
 <br />
 
 ### Workshops
 
-As part of my role as a juFORUM mentor, I've led workshops focused on technology and software development. If you’d like me to conduct a workshop at your location, please find more information [here](https://www.juforum.de/mentoren/workshopangebot).
-
-All of my workshop materials are open source, making them freely accessible for anyone to use and adapt.
+As a juFORUM mentor, I regularly lead hands-on workshops on software development and cyber security. All workshop materials are open source and freely available.
 
 - **Basics of app development**: [xp4u1/app_workshop](https://github.com/xp4u1/app_workshop) (German)
 - **Hack me if you can - Introduction to Cyber Security**: [xp4u1/cybersecurity_workshop](https://github.com/xp4u1/cybersecurity_workshop) (German)
